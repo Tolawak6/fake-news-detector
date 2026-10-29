@@ -84,6 +84,6 @@ python test/test_api.py
 Author
 Tolawak Merga
 GitHub: Tolawak6
-linkdin: [Tolawak Merga](https://www.linkedin.com/in/tolawak-merga-8353b1361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-Instagram: https://www.instagram.com/t_o_l_a_w_a_k?igsh=ZXN3OTRjMWd1cjR1
+linkdin: [Tolawak Merga](https://www.linkedin.com/in/tolawak-merga)
+Instagram: (https://www.instagram.com/t_o_l_a_w_a_k)
 Telegram: https://t.me/tolawakMerga
